@@ -517,7 +517,7 @@ li {
 }
 
 .row .info {
-    padding: 30px 60px;
+    padding: 30px 25px;
     float: left;
     /* Thành phần sẽ hiển thị như một khối, nhưng là một khối nội tuyến. (inline, không ngắt dòng). */
 }
